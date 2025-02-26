@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi! I'm Gianluca Maida <br>
 🎓 Master's student in Software Engineering at Politecnico di Torino  <br>
-👨‍💻 Passionate about system programming, full-stack development, and mobile applications development  <br>
+👨‍💻 Passionate about mobile/web development, full-stack development and system programming  <br>
 🚀 Experience with web development (JavaScript), mobile apps (React Native), and system-level projects (Rust)  <br>
 📘 Currently working on academic and personal projects to enhance my skills  <br>
 🌱 Eager to learn new technologies and open to collaborations  <br>
