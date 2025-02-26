@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hi! I'm Gianluca Maida <br>
 🎓 Master's student in Software Engineering at Politecnico di Torino  <br>
 👨‍💻 Passionate about mobile/web development, full-stack development and system programming  <br>
